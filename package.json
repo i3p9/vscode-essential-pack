@@ -1,0 +1,26 @@
+{
+    "name": "vscode-essential-pack",
+    "displayName": "VSCode Essential Pack",
+    "description": "Essential extensions that can be used in general, not for any specific language",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "BriteSnow.vscode-toggle-quotes",
+        "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "DavidAnson.vscode-markdownlint",
+        "oderwat.indent-rainbow",
+        "qcz.text-power-tools",
+        "Shan.code-settings-sync",
+        "vscode-icons-team.vscode-icons",
+        "yzhang.markdown-all-in-one",
+        "ms-vscode-remote.remote-ssh"
+    ]
+}
