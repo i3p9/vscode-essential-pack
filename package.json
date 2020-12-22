@@ -1,10 +1,25 @@
 {
     "name": "vscode-essential-pack",
     "displayName": "VSCode Essential Pack",
+    "publisher": "i3p9",
     "description": "Essential extensions that can be used in general, not for any specific language",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "icon": "images/icon.png",
+    "homepage": "https://github.com/i3p9/vscode-essential-pack/blob/master/README.md",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "galleryBanner": {
+        "color": "#c8002b",
+        "theme": "dark"
+    },
+    "bugs": {
+        "url": "https://github.com/i3p9/vscode-essential-pack/issues",
+        "email": "sphincone@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/i3p9/vscode-essential-pack.git"
     },
     "categories": [
         "Extension Packs"
